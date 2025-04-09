@@ -27,6 +27,7 @@ Este projeto explora os seguintes pontos:
 - Pandas
 - Seaborn
 - Matplotlib
+- Scikit-learn
 
 ---
 
