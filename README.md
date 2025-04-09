@@ -40,7 +40,16 @@ Este projeto explora os seguintes pontos:
 
 ## 📊 Prints e Análises
 
-Adicione aqui screenshots dos gráficos gerados ou suba na pasta `/imgs` futuramente 😉
+![image](https://github.com/user-attachments/assets/648dade1-07b4-4e9c-86df-ec4f326b6f0d)
+
+![image](https://github.com/user-attachments/assets/7621a196-5136-4b59-9b83-a4729f3a6828)
+
+![image](https://github.com/user-attachments/assets/a3cd4893-1b0f-43b2-ba66-51e6f399f630)
+
+![image](https://github.com/user-attachments/assets/6cd2b086-78f0-4cd1-9e79-d6a330543039)
+
+
+
 
 ---
 
